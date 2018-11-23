@@ -1,5 +1,6 @@
 //Maze Generator
-//Coded by DrWolf_
+//Coded by DrW0if
+//Github : https://github.com/DrW0if
 import java.util.Stack;
 
 static final int w = 10;              //lenght of the cell
