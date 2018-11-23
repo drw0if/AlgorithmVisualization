@@ -1,0 +1,1 @@
+A maze generator is just a DFS with random pick of the neighbour
